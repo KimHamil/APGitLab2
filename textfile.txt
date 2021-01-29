@@ -1,5 +1,13 @@
 simple text file
 
+<<<<<<< Updated upstream
 changes changes lol
 
 more changes haha
+=======
+https://www.youtube.com/watch?v=WbwIoQYP6no&ab_channel=Telusko
+This tutorial bypass the Git Client and uses Eclipse with a directory to share to the Git server
+
+https://www.youtube.com/watch?v=LPT7v69guVY&ab_channel=AutomationStepbyStep-RaghavPal
+This demonstrate how to commit, push and pull from Eclipse to GitHub
+>>>>>>> Stashed changes
